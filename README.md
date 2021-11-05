@@ -13,3 +13,5 @@ Inicialmente descargamos kafka 2.8.1
     $ tar -xzf kafka_2.13-2.8.0.tgz
     
 <!--endsec-->
+
+Una vez instalado, es necesario poder levantar los servicios de `Zookeeper`, para ello,
