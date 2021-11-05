@@ -14,4 +14,5 @@ Inicialmente descargamos kafka 2.8.1
     
 <!--endsec-->
 
-Una vez instalado, es necesario poder levantar los servicios de `Zookeeper`, para ello,
+Una vez instalado, es necesario poder levantar los servicios de `Zookeeper`, para ello, min 35
+
