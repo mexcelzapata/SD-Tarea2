@@ -3,7 +3,7 @@ KAFKA
 
 
 ## Instalación de Kafka 
-inicialmente descargamos kafka 2.8.1
+Inicialmente descargamos kafka 2.8.1
 
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
 
