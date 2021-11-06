@@ -26,3 +26,9 @@ Luego iniciamos los servicios de kafka, para ello, ejecutamos el archivo `kafka_
 
     $ zsh kafka_run.sh
 <!--endsec-->
+
+Una vez levantamos los servicios de kafka, iniciamos un topic "test"con el archivo `create_topic.sh`
+<!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
+
+    $ zsh create_topic.sh
+<!--endsec-->
