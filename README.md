@@ -14,5 +14,9 @@ Inicialmente descargamos kafka 2.8.1
     
 <!--endsec-->
 
-Una vez instalado, es necesario poder levantar los servicios de `Zookeeper`, para ello, min 35
+Una vez instalado, es necesario poder levantar los servicios de `Zookeeper`, para ello, ejecutamos el archivo que tenemos en el repositorio de nombre `zookeeper_run.sh`
 
+<!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
+
+    $ zsh zookeeper_run.sh
+<!--endsec-->
