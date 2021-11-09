@@ -41,7 +41,8 @@ Para validar que tenemos el topic "test" ejecutamos el archivo `list_topic.sh`
 Para la API, se utilizó la herramienta de framework `Flask`, para ello, teniendo python instalamos con el comando:
 
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
-    $ pip install flask
+    $  pip install flask
+    $  sudo pip3 install kafka-python
 <!--endsec-->
 
 
