@@ -26,10 +26,9 @@ Luego iniciamos los servicios de kafka, para ello, ejecutamos el archivo `kafka_
     $ zsh kafka_run.sh
 <!--endsec-->
 
-Una vez levantamos los servicios de kafka, iniciamos los topic "ORDERS" Y "DAILY SUMMARY" con el archivo `create_topic.sh`
+Una vez levantamos los servicios de kafka, iniciamos los topic "ORDERS" Y "DAILY SUMMARY" con el archivo `create_topics.sh`
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
-    $ zsh create_topic1.sh
-    $ zsh create_topic2.sh
+    $ zsh create_topics.sh
 <!--endsec-->
 Para validar que tenemos el topic "test" ejecutamos el archivo `list_topic.sh`
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
