@@ -35,3 +35,20 @@ Para validar que tenemos el topic "test" ejecutamos el archivo `list_topic.sh`
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
     $ zsh list_topic.sh
 <!--endsec-->
+
+
+## Instalación API -REST
+Para la API, se utilizó la herramienta de framework `Flask`, para ello, teniendo python instalamos con el comando:
+
+<!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
+    $ pip install flask
+<!--endsec-->
+
+
+
+
+
+
+
+
+
