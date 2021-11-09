@@ -41,6 +41,7 @@ Instalamos python para utilizar la API.
 sudo apt update
 sudo apt install software-properties-common
 sudo apt install python3.8.10
+sudo pip3 install kafka-python
 ```
 
 ## Instalación API -REST
@@ -48,7 +49,6 @@ Para la API, se utilizó la herramienta framework `Flask`, para ello, instalamos
 
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
     $  pip install flask
-    $  sudo pip3 install kafka-python
 <!--endsec-->
 
 
