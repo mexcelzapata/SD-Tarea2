@@ -36,7 +36,7 @@ Para validar que tenemos el topics, ejecutamos el archivo `list_topic.sh`
 <!--endsec-->
 
 ### Python 3.8.10
-Instalamos python para utilizar la API.
+Instalamos `python` para utilizar la API.
 ```
 sudo apt update
 sudo apt install software-properties-common
