@@ -58,7 +58,7 @@ Para ejecutar el programa, simplemente corremos el archivo `app.py`
     $  python3 app.py
 <!--endsec-->
 
-Con una software para realizar pruebas a API como lo es ``INSOMNIA'' que es una aplicación que nos permite realizar pruebas API. Donde es un cliente HTTP que nos da la posibilidad de testear 'HTTP requests' a través de una interfaz gráfica de usuario. vamos a realizar las pruebas correspondientes
+Utilizando un software para realizar pruebas a API como lo es ``INSOMNIA'' que es una aplicación que nos permite realizar pruebas API. Donde es un cliente HTTP que nos da la posibilidad de testear 'HTTP requests' a través de una interfaz gráfica de usuario. vamos a realizar las pruebas correspondientes
 ### Generar Orden
 Ingresamos a la url:
 ```
