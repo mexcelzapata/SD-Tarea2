@@ -49,13 +49,13 @@ sudo pip3 install kafka-python
 Para la API, se utilizó la herramienta framework `Flask`, para ello, instalamos `flask` comando (teniendo python instalado):
 
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
-    $  pip install flask
+    $  pip3 install flask
 <!--endsec-->
 
 ## Ejecutar programa
 Para ejecutar programa, simplemente corremos el archivo `app.py` 
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
-    $  python app.py
+    $  python3 app.py
 <!--endsec-->
 
 Con una software para realizar pruebas a API como lo es ``INSOMNIA'' que es una aplicación que nos permite realizar pruebas API. Donde es un cliente HTTP que nos da la posibilidad de testear 'HTTP requests' a través de una interfaz gráfica de usuario. vamos a realizar las pruebas correspondientes
