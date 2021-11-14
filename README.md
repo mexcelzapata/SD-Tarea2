@@ -6,7 +6,7 @@ Apache Kafka es la alternativa a un sistema de mensajería tradicional para empr
 
 
 ## Instalación de Kafka 
-Inicialmente descargamos kafka 2.8.1
+Inicialmente descargamos kafka 2.8.0
 
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
 
