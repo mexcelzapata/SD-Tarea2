@@ -5,7 +5,7 @@
 Apache Kafka es la alternativa a un sistema de mensajería tradicional para empresas. Comenzó como un sistema interno que LinkedIn desarrolló para gestionar 1,4 billones de mensajes por día. Ahora, es una solución open source de transmisión de datos que permite satisfacer diversas necesidades empresariales.
 
 
-## Instalación de Kafka 
+## Instalación de Kafka 🛫
 Inicialmente descargamos kafka 2.8.0
 
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
@@ -38,7 +38,7 @@ Para validar que tenemos el topics, ejecutamos el archivo `list_topic.sh`
     $ zsh list_topic.sh
 <!--endsec-->
 
-### Python 3.8.10
+### Python 3.8.10 🐍
 Instalamos `python` para utilizar la API.
 ```
 sudo apt update
@@ -48,14 +48,14 @@ sudo apt-get -y install python3-pip
 sudo pip3 install kafka-python
 ```
 
-## Instalación API -REST
+## Instalación API -REST 💅
 Para la API, se utilizó la herramienta framework `Flask`, para ello, instalamos `flask` comando (teniendo python instalado):
 
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
     $  pip3 install flask
 <!--endsec-->
 
-## Ejecutar programa
+## Ejecutar programa 🥵🥵�
 Para ejecutar el programa, simplemente corremos el archivo `app.py` 
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
     $  python3 app.py
