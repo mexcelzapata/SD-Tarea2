@@ -29,7 +29,7 @@ Luego, en otra ventana de la terminal, iniciamos los servicios de kafka, para el
     $ zsh kafka_run.sh
 <!--endsec-->
 
-Una vez levantamos los servicios de kafka, iniciamos los topic "ORDERES" Y "RESUMEN DIARIO" con el archivo `create_topics.sh`
+Una vez levantamos los servicios de kafka, iniciamos los topic "ORDENES" Y "RESUMEN DIARIO" con el archivo `create_topics.sh`
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
     $ zsh create_topics.sh
 <!--endsec-->
