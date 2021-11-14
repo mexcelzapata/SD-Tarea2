@@ -53,7 +53,7 @@ Para la API, se utilizó la herramienta framework `Flask`, para ello, instalamos
 <!--endsec-->
 
 ## Ejecutar programa
-Para ejecutar programa, simplemente corremos el archivo `app.py` 
+Para ejecutar el programa, simplemente corremos el archivo `app.py` 
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
     $  python3 app.py
 <!--endsec-->
