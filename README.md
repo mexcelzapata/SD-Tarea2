@@ -56,7 +56,7 @@ Para la API, se utilizó la herramienta framework `Flask`, para ello, instalamos
 <!--endsec-->
 
 ## Ejecutar programa 🥵🥵�
-Para ejecutar el programa, simplemente corremos el archivo `app.py` 
+Para ejecutar el programa, simplemente corremos el archivo `app.py`, es importante mensionar que se asume que los vendedores con los cocineros durante el dia trabajan en conjunto y no se separan (o sea siempre estan juntos en las ordenes).
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
     $  python3 app.py
 <!--endsec-->
