@@ -52,11 +52,43 @@ Para la API, se utilizó la herramienta framework `Flask`, para ello, instalamos
     $  pip install flask
 <!--endsec-->
 
+## Ejecutar programa
+Para ejecutar programa, simplemente corremos el archivo `app.py` 
+<!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
+    $  python app.py
+<!--endsec-->
+
+Con una software para realizar pruebas a API como lo es ``INSOMNIA'' que es una aplicación que nos permite realizar pruebas API. Donde es un cliente HTTP que nos da la posibilidad de testear 'HTTP requests' a través de una interfaz gráfica de usuario. vamos a realizar las pruebas correspondientes
+### Generar Orden
+Ingresamos a la url:
+```
+http://localhost:3000/nuevaOrden
+```
+y ingresamos un JSON con la siguinte estructura con metodo `POST`:
+```
+{
+  "correoVendedor": "pruebasboltonudp@gmail.com",
+  "correoCocinero": "pruebasboltonudp@gmail.com",
+  "cantidad": 1,
+  "total": 5
+}
+```
+`output: "Orden realizada con Exito" `
 
 
+### Generar Resumen Diario
+Ingresamos la url con metodo `GET`:
+```
+http://localhost:3000/resumenDiario
+```
+`output: "resumen diario realizado con exito" `
 
 
-
-
+### Envíar Mails
+Ingresamos la url con metodo `GET`:
+```
+http://localhost:3000/enviarEmails
+```
+`output: "emails enviados" `
 
 
