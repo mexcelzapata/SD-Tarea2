@@ -62,7 +62,7 @@ Para ejecutar el programa, simplemente corremos el archivo `app.py`
 <!--endsec-->
 
 Utilizando un software para realizar pruebas a API como lo es ``INSOMNIA'' que es una aplicación que nos permite realizar pruebas API. Donde es un cliente HTTP que nos da la posibilidad de testear 'HTTP requests' a través de una interfaz gráfica de usuario. vamos a realizar las pruebas correspondientes
-### Generar Orden
+### 📃 Generar Orden 📃
 Ingresamos a la url:
 ```
 http://localhost:3000/nuevaOrden
@@ -79,7 +79,7 @@ y ingresamos un JSON con la siguinte estructura con metodo `POST`:
 `output: "Orden realizada con Exito" `
 
 
-### Generar Resumen Diario
+### 🖨 Generar Resumen Diario 📓
 Ingresamos la url con metodo `GET`:
 ```
 http://localhost:3000/resumenDiario
@@ -87,7 +87,7 @@ http://localhost:3000/resumenDiario
 `output: "resumen diario realizado con exito" `
 
 
-### Envíar Mails
+### 💸 Envíar Mails📩
 Ingresamos la url con metodo `GET`:
 ```
 http://localhost:3000/enviarEmails
