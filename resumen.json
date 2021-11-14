@@ -1,6 +1,7 @@
 {
     "correoVendedor": "pruebasboltonudp1@gmail.com",
     "correoCocinero": "pruebasboltonudp2@gmail.com",
-    "cantidad": 10,
+    "cantidadDeOrdenes":1,
+    "cantidadVendida": 10,
     "total": 2000
-  }
+  } 
