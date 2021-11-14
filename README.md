@@ -13,7 +13,7 @@ Inicialmente descargamos kafka 2.8.1
     $ tar -xzf kafka_2.13-2.8.0.tgz
     
 <!--endsec-->
-
+`Importante: ingresar en archivo kafka_home.sh el PATH correspondiente al archivo kafka_2.13-2.8.0`
 Una vez instalado, es necesario poder levantar los servicios de `Zookeeper`, para ello, ejecutamos el archivo que tenemos en el repositorio de nombre `zookeeper_run.sh` y dejamos que corra.
 
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
