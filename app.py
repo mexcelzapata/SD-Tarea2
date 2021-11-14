@@ -35,7 +35,6 @@ def consumer_from_beginning(topic):
             break
     return arr_json
 
-
 def suma_ordenes(arr_ordenes_json):
     suma = 0
     cantidad = 0
@@ -69,10 +68,6 @@ def suma_ordenes(arr_ordenes_json):
         return -1
     else:
         return data
-
-@app.route('/')
-def index():
-    return "Ruta de prueba"
 
 @app.route('/nuevaOrden', methods = ['POST'])
 def nuevaOrden():
